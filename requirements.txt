@@ -1,0 +1,10 @@
+# requirements.txt
+requests
+beautifulsoup4
+streamlit
+openai
+python-dotenv
+pandas
+anthropic
+numpy
+matplotlib
